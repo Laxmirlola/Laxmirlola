@@ -50,9 +50,3 @@ Learning more about:
   <a href="https://github.com/Laxmirlola">GitHub</a> |
   <a href="https://www.linkedin.com/in/laxmirlola-behera/">LinkedIn</a>
 </p>
-
----
-
-<div align="center">
-  <sub>Designed to feel warm, clean, and a little animated, just like the profile inspiration you shared.</sub>
-</div>
